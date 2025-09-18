@@ -1,0 +1,10 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+outputs/
+*.csv
+*.pkl
+*.log
+.idea/
+.vscode/
